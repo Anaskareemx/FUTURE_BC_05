@@ -12,8 +12,7 @@ I built a crypto portfolio tracker that fetches live token prices using the Coin
 
 ## ⚙️ Implementation
 Choose one:
-- **Google Sheets + Apps Script**: fast, easy to share. (Sheet link: YOUR_GOOGLE_SHEET_LINK)
-- **React App**: interactive single-page app (code in `src/App.jsx`).
+- **Google Sheets + Apps Script**: fast, easy to share.
 
 ## 🔧 Tools & Technologies
 - CoinGecko API
@@ -29,4 +28,4 @@ Choose one:
 
 ## 🔗 Links
 - GitHub Repo: https://github.com/Anaskareemx/FUTURE_BC_05
-- LinkedIn Post 
+- LinkedIn Post https://www.linkedin.com/posts/anaskareemx_futureinterns-blockchain-crypto-activity-7380537913836515328-lrTG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4QJ74BYcYZNEuGk_joXWWY4Wz-ansWdbs
